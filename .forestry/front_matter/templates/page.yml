@@ -16,3 +16,15 @@ fields:
   - call-to-action
   - media-feature
   - hero-section
+- type: field_group_list
+  name: colors
+  label: Colors
+  fields:
+  - type: text
+    name: name
+    label: Name
+  - type: text
+    label: RGB
+    name: rgb
+  config:
+    labelField: name
