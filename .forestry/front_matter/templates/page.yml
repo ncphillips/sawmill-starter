@@ -1,6 +1,7 @@
 ---
 pages:
 - _index.md
+- an-example-page.md
 hide_body: true
 is_partial: false
 fields:
