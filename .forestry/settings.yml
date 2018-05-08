@@ -2,10 +2,10 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: 
-webhook_url: 
+webhook_url: ''
 sections: 
-upload_dir: "/static/uploads"
-public_path: "/uploads"
+upload_dir: static/uploads
+public_path: uploads
 body_path: ''
 use_body_path: false
 file_template: "/:year:/:month:/:day:/:filename:"
