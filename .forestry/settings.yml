@@ -8,7 +8,7 @@ upload_dir: static/uploads
 public_path: uploads
 body_path: ''
 use_body_path: false
-file_template: "/:year:/:month:/:day:/:filename:///"
+file_template: ":year:/:month:/:day:/:filename:"
 upload_path: "/static/uploads/:year:/:month:/:day:"
 frontmatter_file_url_template: "/uploads/:year:/:month:/:day:"
 body_file_url_template: "/uploads/:year:/:month:/:day:"
