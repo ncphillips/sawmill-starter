@@ -7,7 +7,7 @@ sections:
 upload_dir: uploads
 public_path: public
 body_path: body
-use_body_path: false
+use_body_path: true
 file_template: ":filename:"
 upload_path: "/static/uploads/:year:/:month:/:day:"
 frontmatter_file_url_template: "/uploads/:year:/:month:/:day:"
