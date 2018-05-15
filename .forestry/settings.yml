@@ -5,8 +5,8 @@ admin_path: "/admin"
 webhook_url: ''
 sections: 
 upload_dir: uploads
-public_path: ''
-body_path: ''
+public_path: public
+body_path: body
 use_body_path: false
 file_template: ":filename:"
 upload_path: "/static/uploads/:year:/:month:/:day:"
