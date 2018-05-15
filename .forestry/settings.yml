@@ -4,7 +4,7 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: ''
 sections: 
-upload_dir: cool-pics
+upload_dir: uploads
 public_path: ''
 body_path: ''
 use_body_path: false
