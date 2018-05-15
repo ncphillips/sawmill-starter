@@ -13,7 +13,7 @@ fields:
   hidden: false
   default: ''
 - name: blocks
-  label: Blocks
+  label: People
   type: field_group_list
   fields:
   - name: background_image
