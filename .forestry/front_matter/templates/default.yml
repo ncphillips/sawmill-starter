@@ -1,6 +1,4 @@
 ---
-pages:
-- html-page.html
 hide_body: false
 is_partial: false
 fields:
@@ -19,3 +17,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- html-page.html
