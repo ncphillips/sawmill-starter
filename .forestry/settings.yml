@@ -6,8 +6,8 @@ webhook_url: ''
 sections: 
 upload_dir: uploads
 public_path: static
-body_path: ''
-use_body_path: false
+body_path: cool/static
+use_body_path: true
 file_template: ":filename:-:year:"
 upload_path: "/static/uploads/:year:/:month:/:day:"
 frontmatter_file_url_template: "/uploads/:year:/:month:/:day:"
