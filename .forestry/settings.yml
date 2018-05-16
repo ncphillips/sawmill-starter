@@ -6,10 +6,7 @@ webhook_url: ''
 sections: 
 upload_dir: uploads
 public_path: uploads
-body_path: body
-use_body_path: true
+front_matter_path: body
+use_front_matter_path: true
 file_template: ":filename:"
-upload_path: "/static/uploads/:year:/:month:/:day:"
-frontmatter_file_url_template: "/uploads/:year:/:month:/:day:"
-body_file_url_template: "/uploads/:year:/:month:/:day:"
 version: 0.38.1
