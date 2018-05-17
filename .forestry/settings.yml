@@ -5,8 +5,8 @@ admin_path: "/admin"
 webhook_url: ''
 sections: 
 upload_dir: uploads
-public_path: "{{ site.base_url }}/uploads"
-front_matter_path: "{{ site.base_url }}/uploads"
+public_path: "{{ site.base_url }}/body"
+front_matter_path: "{{ site.base_url }}/fm"
 use_front_matter_path: true
 file_template: ":filename:"
 version: 0.38.1
