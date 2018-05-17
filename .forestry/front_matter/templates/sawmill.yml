@@ -12,6 +12,9 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: datetime
+  name: date
+  label: Date
 - name: blocks
   label: People
   type: field_group_list
