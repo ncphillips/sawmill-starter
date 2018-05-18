@@ -15,6 +15,8 @@ fields:
 - type: datetime
   name: date
   label: Date
+  config:
+    display_utc: true
 - name: blocks
   label: People
   type: field_group_list
