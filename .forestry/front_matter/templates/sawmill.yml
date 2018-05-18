@@ -16,7 +16,7 @@ fields:
   name: date
   label: Date
   config:
-    display_utc: true
+    display_utc: false
 - name: blocks
   label: People
   type: field_group_list
